@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm vikash kumar</h1>
-<h3 align="center">Currently an undergraduate student at UPES, Dehradun pursuing B.Tech- Computer Science with specialization in Cyber Security and Forensics(2020-2024) and enhancing my technical skills in the field of Cyber Security I also enjoy web development and have used tools like Angular, NodeJs, Firebase and Javascript , Reactjs</h3>
+<h3 align="center">Web Developer  &  cyber Enthusiastic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikashkumar040203&label=Profile%20views&color=0e75b6&style=flat" alt="vikashkumar040203" /> </p>
 
