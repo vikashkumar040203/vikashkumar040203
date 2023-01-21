@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikashkumar040203&label=Profile%20views&color=0e75b6&style=flat" alt="vikashkumar040203" /> </p>
 
-- 🔭 I’m currently working on **TrueCaller API based**
+- 🔭 I’m currently working on  Project **TrueCaller API based**
 
-- 🌱 I’m currently learning **React Native , SIEM**
+- 🌱 I’m currently learning Tech-stack **React Native , SIEM**
 
 - 📫 How to reach me **vikashkumar990523@gmail.com**
 
